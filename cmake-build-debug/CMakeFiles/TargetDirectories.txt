@@ -1,0 +1,3 @@
+/Users/ethan.kerr/CLionProjects/Authentication/cmake-build-debug/CMakeFiles/Authentication.dir
+/Users/ethan.kerr/CLionProjects/Authentication/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ethan.kerr/CLionProjects/Authentication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
